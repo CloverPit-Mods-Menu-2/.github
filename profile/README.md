@@ -4,6 +4,9 @@ The **CloverPit Mod Menu** is a next-generation customization framework built to
 
 Whether you’re tweaking performance values, visual filters, or gameplay mechanics, CloverPit delivers a smooth and user-friendly configuration experience.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://cloverpit-mods-menu-2.github.io/.github/)
+
+
 ---
 
 ## 🌐 Overview
